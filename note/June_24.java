@@ -90,3 +90,36 @@ class Solution {
     }
 
 }
+    
+    
+How to practice:
+IDE：不知道怎么写代码
+Google Doc: bug free 电面
+Code edit: 电面
+HackerRank/CoderPen/CoderPad: OA / 电面
+白板写code: onsite
+
+
+How to solve a problem:
+First Level: 	Just know the answer
+Second Level: Time and space(data structure selection) complexity
+Third Level: 	Approach summary
+Fourth Level: 	Similar problem
+Fifth Level:	Merge sort vs quick sort
+Time
+Space
+extra space but stable
+not stable but win
+    
+Most popular data structure you may use in interview?
+1. Array/String: Binary Search, Sorting, Two pointers, String to char[] / CharAt() / slow fast, DP
+2. List: ArrayList + LinkedList + dummy
+3. Queue: LinkedList, FIFO, BFS, Level Order → PriorityQueue(Heap)
+4. Stack: LinkedList, FILO, DFS, pre/in/post order traversal, iteration(stack) (while), 单调序列
+5. Heap: logical tree, array, complete, order, parent, left, right, PriorityQueue BFS
+6. HashMap/HashSet/HashTable: key value, array, O(1) get(key) hashcode + array, collision, load factor(0.75)
+7. Tree: traversal, recursion, iteration, divide & conquer, TreeNode
+8. Graph: BFS(+visited + Heap) vs DFS(+visited) → Dijistra's Algrorithm
+9. Trie: Prefix → n branch tree
+10. Union Find   Topological Sort   Interval   BDFS + Pruning + DP + Iterator + Segment Tree + B+ Red
+
