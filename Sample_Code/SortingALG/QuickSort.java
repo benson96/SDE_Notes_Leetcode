@@ -94,7 +94,7 @@ public class QuickSort{
 
 		if (array[fast] < pivotValue){
 			swap(array,slow,fast);
-			slow++
+			slow++;
 		}
 		fast++;
 	}
